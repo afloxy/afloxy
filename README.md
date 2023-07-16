@@ -1,7 +1,7 @@
 ![Banner Image](https://sprottshaw.com/wp-content/uploads/2023/05/GettyImages-1268290320-1024x281.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Dwivedi</h1>
 <h3 align="center">I passionate about cyber security from India</h3>
-<img aline="right" alt="Hacking" width="400" src="https://pin.it/396IWWd">
+<img aline="right" alt="Hacking" width="400" src="https://compliance4all14.files.wordpress.com/2018/03/20160628_1516_fti_cyber_security.gif?w=561&h=284">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afloxy&label=Profile%20views&color=0e75b6&style=flat" alt="afloxy" /> </p>
 
